@@ -1,6 +1,9 @@
-# Actividade-de-Consulta-ao-Banco-de-DADOS-
-Utilização da linguagem SQL para recuperar informações específicas do banco de dados.
+# O-Oscar-vai-para...
 
+# Consulta de Dados:
+
+Utilização da linguagem SQL para recuperar informações específicas do banco de dados.
+Emprego de comandos SELECT para filtrar dados com base em condições.
 Atualização de Dados:
 
 Uso do comando UPDATE para modificar registros existentes no banco de dados.
